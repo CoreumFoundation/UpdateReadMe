@@ -35,7 +35,7 @@ At its core, Coreum is a decentralized network operated by a global consortium o
 Dive into the world of Coreum by setting up your node, exploring our development tools, and contributing to our community-driven projects:
 
 1. **Setting Up a Node:** Follow our step-by-step guide at [get.coreum.com](https://docs.coreum.dev/validator/run-full.html) to become a part of the Coreum network.
-2. **Development Tools:** Explore `forge` for CosmWasm contract development and `starlight` for creating TypeScript clients. [dev.coreum.com](https://docs.coreum.dev/tutorials/wasm-ft.html)
+2. **Development Tools:** Explore `cored` for CosmWasm contract development and `starlight` for creating TypeScript clients. [dev.coreum.com](https://docs.coreum.dev/tutorials/wasm-ft.html)
 3. **Join the Community:** Engage with other Coreum developers and users on [community.coreum.com]() for support, discussions, and collaboration.
 
 ## Contribute
